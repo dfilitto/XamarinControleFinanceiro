@@ -1,0 +1,12 @@
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\bin\Debug\netstandard2.0\AppFinanceiro.deps.json
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\bin\Debug\netstandard2.0\AppFinanceiro.dll
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\bin\Debug\netstandard2.0\AppFinanceiro.pdb
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\AppFinanceiro.csprojAssemblyReference.cache
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\AppFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\AppFinanceiro.AssemblyInfoInputs.cache
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\AppFinanceiro.AssemblyInfo.cs
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\AppFinanceiro.dll
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\AppFinanceiro.pdb
+C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\obj\Debug\netstandard2.0\XamlC.stamp
