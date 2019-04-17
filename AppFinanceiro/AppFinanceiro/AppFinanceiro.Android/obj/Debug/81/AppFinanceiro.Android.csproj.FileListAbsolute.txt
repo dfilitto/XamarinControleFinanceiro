@@ -102,6 +102,4 @@ C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro.A
 C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro\bin\Debug\netstandard2.0\AppFinanceiro.dll
-C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro.Android\bin\Debug\AppFinanceiro.dll.mdb
 C:\Users\danilo.filitto\source\repos\AppFinanceiro\AppFinanceiro\AppFinanceiro.Android\obj\Debug\81\linksrc\AppFinanceiro.dll.mdb
